@@ -3,8 +3,8 @@
 <url> <loc>http://anthonycho.net/tags</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://anthonycho.net/categories</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://anthonycho.net/pages/about/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>http://anthonycho.net/pages/contacts/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://anthonycho.net/posts/12/24/personal</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>http://anthonycho.net/pages/contacts/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://anthonycho.net/tag/blog</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://anthonycho.net/tag/personal</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://anthonycho.net/category/personal</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
