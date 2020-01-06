@@ -82,6 +82,24 @@
   Link: </styles-cfd8967844ee44b2cb03.js>; rel=preload; as=script
   Link: </commons-f3c4b352a01106954814.js>; rel=preload; as=script
   Link: </component---src-templates-not-found-template-js-8bf6e18fcbffbee6eab5.js>; rel=preload; as=script
+/posts/personal/preparing-for-the-road-ahead
+  Link: </webpack-runtime-6d9fdb5a9c1328ecdfea.js>; rel=preload; as=script
+  Link: </styles-cfd8967844ee44b2cb03.js>; rel=preload; as=script
+  Link: </commons-f3c4b352a01106954814.js>; rel=preload; as=script
+  Link: </netlify-identity-widget-e37a35e339457e643f79.js>; rel=preload; as=script
+  Link: </app-4206c358508a5a52b4b0.js>; rel=preload; as=script
+  Link: </styles-cfd8967844ee44b2cb03.js>; rel=preload; as=script
+  Link: </commons-f3c4b352a01106954814.js>; rel=preload; as=script
+  Link: </component---src-templates-post-template-js-a32cdaff2ee8f99f2712.js>; rel=preload; as=script
+/posts/personal/a-merry-christmas
+  Link: </webpack-runtime-6d9fdb5a9c1328ecdfea.js>; rel=preload; as=script
+  Link: </styles-cfd8967844ee44b2cb03.js>; rel=preload; as=script
+  Link: </commons-f3c4b352a01106954814.js>; rel=preload; as=script
+  Link: </netlify-identity-widget-e37a35e339457e643f79.js>; rel=preload; as=script
+  Link: </app-4206c358508a5a52b4b0.js>; rel=preload; as=script
+  Link: </styles-cfd8967844ee44b2cb03.js>; rel=preload; as=script
+  Link: </commons-f3c4b352a01106954814.js>; rel=preload; as=script
+  Link: </component---src-templates-post-template-js-a32cdaff2ee8f99f2712.js>; rel=preload; as=script
 /posts/photography/a-whole-new-world
   Link: </webpack-runtime-6d9fdb5a9c1328ecdfea.js>; rel=preload; as=script
   Link: </styles-cfd8967844ee44b2cb03.js>; rel=preload; as=script
@@ -109,24 +127,6 @@
   Link: </styles-cfd8967844ee44b2cb03.js>; rel=preload; as=script
   Link: </commons-f3c4b352a01106954814.js>; rel=preload; as=script
   Link: </component---src-templates-page-template-js-7561b72f3997c21f4dc5.js>; rel=preload; as=script
-/posts/personal/a-merry-christmas
-  Link: </webpack-runtime-6d9fdb5a9c1328ecdfea.js>; rel=preload; as=script
-  Link: </styles-cfd8967844ee44b2cb03.js>; rel=preload; as=script
-  Link: </commons-f3c4b352a01106954814.js>; rel=preload; as=script
-  Link: </netlify-identity-widget-e37a35e339457e643f79.js>; rel=preload; as=script
-  Link: </app-4206c358508a5a52b4b0.js>; rel=preload; as=script
-  Link: </styles-cfd8967844ee44b2cb03.js>; rel=preload; as=script
-  Link: </commons-f3c4b352a01106954814.js>; rel=preload; as=script
-  Link: </component---src-templates-post-template-js-a32cdaff2ee8f99f2712.js>; rel=preload; as=script
-/posts/personal/preparing-for-the-road-ahead
-  Link: </webpack-runtime-6d9fdb5a9c1328ecdfea.js>; rel=preload; as=script
-  Link: </styles-cfd8967844ee44b2cb03.js>; rel=preload; as=script
-  Link: </commons-f3c4b352a01106954814.js>; rel=preload; as=script
-  Link: </netlify-identity-widget-e37a35e339457e643f79.js>; rel=preload; as=script
-  Link: </app-4206c358508a5a52b4b0.js>; rel=preload; as=script
-  Link: </styles-cfd8967844ee44b2cb03.js>; rel=preload; as=script
-  Link: </commons-f3c4b352a01106954814.js>; rel=preload; as=script
-  Link: </component---src-templates-post-template-js-a32cdaff2ee8f99f2712.js>; rel=preload; as=script
 /tag/blog
   Link: </webpack-runtime-6d9fdb5a9c1328ecdfea.js>; rel=preload; as=script
   Link: </styles-cfd8967844ee44b2cb03.js>; rel=preload; as=script
