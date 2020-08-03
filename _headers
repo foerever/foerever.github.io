@@ -108,18 +108,6 @@
   Link: </component---src-templates-not-found-template-js-7227711cf1b18abfb643.js>; rel=preload; as=script
   Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </page-data/404.html/page-data.json>; rel=preload; as=fetch; crossorigin
-/posts/personal/preparing-for-the-road-ahead
-  Link: </webpack-runtime-49104cf8276ebe1a0717.js>; rel=preload; as=script
-  Link: </styles-9b6f388623a2ec93d35f.js>; rel=preload; as=script
-  Link: </framework-6e1ce7bd1c56d36ddf6c.js>; rel=preload; as=script
-  Link: </532a2f07-c13f5b59c15bff3abde0.js>; rel=preload; as=script
-  Link: </app-c2e839552a57a9437733.js>; rel=preload; as=script
-  Link: </styles-9b6f388623a2ec93d35f.js>; rel=preload; as=script
-  Link: </7c71370ca13441314d08d349221b40071de223d6-4ee77a407843d0e51fc5.js>; rel=preload; as=script
-  Link: </643651a62fb35a9bb4f20061cb1f214a352d7976-89429dcbd934d29eca8d.js>; rel=preload; as=script
-  Link: </component---src-templates-post-template-js-934f2d776e174a2181a3.js>; rel=preload; as=script
-  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
-  Link: </page-data/posts/personal/preparing-for-the-road-ahead/page-data.json>; rel=preload; as=fetch; crossorigin
 /posts/photography/a-whole-new-world
   Link: </webpack-runtime-49104cf8276ebe1a0717.js>; rel=preload; as=script
   Link: </styles-9b6f388623a2ec93d35f.js>; rel=preload; as=script
@@ -144,6 +132,18 @@
   Link: </component---src-templates-post-template-js-934f2d776e174a2181a3.js>; rel=preload; as=script
   Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </page-data/posts/personal/a-merry-christmas/page-data.json>; rel=preload; as=fetch; crossorigin
+/posts/personal/preparing-for-the-road-ahead
+  Link: </webpack-runtime-49104cf8276ebe1a0717.js>; rel=preload; as=script
+  Link: </styles-9b6f388623a2ec93d35f.js>; rel=preload; as=script
+  Link: </framework-6e1ce7bd1c56d36ddf6c.js>; rel=preload; as=script
+  Link: </532a2f07-c13f5b59c15bff3abde0.js>; rel=preload; as=script
+  Link: </app-c2e839552a57a9437733.js>; rel=preload; as=script
+  Link: </styles-9b6f388623a2ec93d35f.js>; rel=preload; as=script
+  Link: </7c71370ca13441314d08d349221b40071de223d6-4ee77a407843d0e51fc5.js>; rel=preload; as=script
+  Link: </643651a62fb35a9bb4f20061cb1f214a352d7976-89429dcbd934d29eca8d.js>; rel=preload; as=script
+  Link: </component---src-templates-post-template-js-934f2d776e174a2181a3.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/posts/personal/preparing-for-the-road-ahead/page-data.json>; rel=preload; as=fetch; crossorigin
 /pages/about/
   Link: </webpack-runtime-49104cf8276ebe1a0717.js>; rel=preload; as=script
   Link: </styles-9b6f388623a2ec93d35f.js>; rel=preload; as=script
