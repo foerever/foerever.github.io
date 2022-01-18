@@ -3,7 +3,7 @@
 <url> <loc>http://anthonycho.net/tags</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://anthonycho.net/categories</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://anthonycho.net/posts/personal/a-merry-christmas</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>http://anthonycho.net/pages/about</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>http://anthonycho.net/pages/about/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://anthonycho.net/tag/blog</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://anthonycho.net/tag/personal</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://anthonycho.net/tag/photography</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
